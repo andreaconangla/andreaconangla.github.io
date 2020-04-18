@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: andreaconangla.github.io
+  repo: andreaconangla/andreaconangla.github.io
   branch: master
   site_domain: epic-lovelace-87236d.netlify.com
 
