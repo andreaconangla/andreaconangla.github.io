@@ -2,7 +2,7 @@ backend:
   name: github
   repo: andreaconangla.github.io
   branch: master
-  site_domain: epic-lovelace-87236d
+  site_domain: epic-lovelace-87236d.netlify.com
 
 media_folder: "images/uploads"
 
