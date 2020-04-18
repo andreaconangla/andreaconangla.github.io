@@ -4,7 +4,8 @@ backend:
   repo: andreaconangla/andreaconangla.github.io
   auth_endpoint: auth
   branch: master
-  site_domain: epic-lovelace-87236d.netlify.com
+  # site_domain: epic-lovelace-87236d.netlify.com
+  site_domain: andreaconangla.github.io
 
 media_folder: "images/uploads"
 
